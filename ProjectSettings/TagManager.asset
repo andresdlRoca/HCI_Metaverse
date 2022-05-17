@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Selectable
+  - UI_Play
+  - UI_Select
+  - UI_Logo
   layers:
   - Default
   - TransparentFX
