@@ -8,6 +8,7 @@ TagManager:
   - UI_Play
   - UI_Select
   - UI_Logo
+  - UI_Site
   layers:
   - Default
   - TransparentFX
