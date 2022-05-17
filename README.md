@@ -1,4 +1,4 @@
-# HCI_Metaverse  
+# HCI Metaverse Project  
 ## HCI - Seccion 20  
 Por:  
 Diego Alonzo  
