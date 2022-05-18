@@ -69,10 +69,7 @@ public class RaycastID : MonoBehaviour
                 } else if(hit.collider.name == "Selection_Site3") {
                     Debug.Log("Site 3");
                     SceneManager.LoadScene(3);
-                } else if(hit.collider.name == "Exit") {
-                    Debug.Log("Site 0 (Menu)");
-                    SceneManager.LoadScene(4);
-                }
+                } 
             }
         }
 
